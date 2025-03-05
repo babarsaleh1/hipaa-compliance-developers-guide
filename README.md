@@ -120,4 +120,4 @@ TrueVault is a HIPAA compliant API and secure data store that makes meeting the 
 ## Disclaimer
 
 We're not lawyers. Nothing in this guide constitutes legal advice. Talk to one if you have specific questions regarding your application and HIPAA compliance.
-
+guide/blob/master/02%20What%20is%20HIPAA%3F.md#no-safe-harbor-clause.fix)
